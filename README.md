@@ -56,3 +56,12 @@ The project uses the German Credit dataset. Ensure the dataset is placed in the 
 
 ## demo video
 https://drive.google.com/file/d/1Jv_7ngVmHd7RJae8ky2UJykCGwVIv5tm/view?usp=drive_link
+
+## Why Logistic Regression?
+Logistic Regression was chosen for this project due to the following advantages:
+1. **Simplicity and Interpretability:** Logistic Regression is easy to implement and provides clear insights into the relationship between features and the target variable.
+2. **Binary Classification:** It is well-suited for binary classification problems like predicting credit risk (Risky vs. Non-Risky).
+3. **Efficiency:** Logistic Regression is computationally efficient and works well with smaller datasets like the German Credit dataset.
+4. **Probabilistic Output:** It provides probabilities for predictions, which can be useful for understanding the confidence of the model's decisions.
+5. **Feature Importance:** The coefficients of the model can be used to understand the importance of each feature in predicting credit risk.
+6. **Handles Linearity:** It performs well when there is a linear relationship between the features and the log-odds of the target variable.
