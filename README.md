@@ -55,4 +55,4 @@ The project uses the German Credit dataset. Ensure the dataset is placed in the 
 ![Feature analysis](<screenshots/Screenshot 2025-04-25 103147.png>)
 
 ## demo video
-https://drive.google.com/drive/u/0/folders
+https://drive.google.com/file/d/1Jv_7ngVmHd7RJae8ky2UJykCGwVIv5tm/view?usp=drive_link
